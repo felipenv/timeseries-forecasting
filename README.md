@@ -1,2 +1,2 @@
 # timeseries-forecasting
-Research on time series forecasting comparing FTS and LSTM approaches
+Research on time series forecasting comparing FTS, LSTM and Transformers approaches
